@@ -4,9 +4,10 @@ Software engineer in the Chicago area. I build full-stack web applications in Ty
 
 ## Open source
 
+- **[factobot](https://github.com/8thlyr/factobot)** is a benchmark harness that runs an agent in a real, headless Factorio game and scores it on game time to a milestone. A Rust daemon supervises the server, drives it over RCON and serves a versioned JSON socket protocol. The agent works inside a bubblewrap sandbox, and a Lua mod holds it to what a player can do. Rust, Lua and Python.
+- **Upstream:** 13 merged pull requests to [gsd-2](https://github.com/gsd-build/gsd-2/pulls?q=is%3Apr+author%3Ajonathancostin+is%3Amerged) (TypeScript), plus merged work in [hyprwhspr](https://github.com/goodroot/hyprwhspr/pulls?q=is%3Apr+author%3Ajonathancostin+is%3Amerged) and [AgentCraft](https://github.com/blendi-remade/agentcraft/pull/2).
 - **[tuitree](https://github.com/8thlyr/tuitree)** is a terminal dashboard for git worktrees and GitHub pull requests. It shows which branches are ahead, behind or would conflict, next to each pull request and its review comments. Rust and ratatui, on plain threads with no async runtime.
 - **[Fan Curve](https://github.com/8thlyr/fan-curve)** is a macOS menu-bar app that sets fan speed from CPU temperature. A root helper clamps every target to the fan's own limits and hands control back to macOS on sleep, quit or a lost heartbeat. Swift, installed as a Homebrew cask.
-- **[runtest](https://github.com/8thlyr/runtest)** is a small C program that runs a test command at background priority on macOS, so a long test run doesn't slow the rest of the machine.
 
 ## Client work
 
