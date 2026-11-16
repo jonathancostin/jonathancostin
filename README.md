@@ -36,4 +36,4 @@ PowerShell I wrote as a systems specialist at a managed IT provider. These repos
 
 I use AI coding tools every day and review every change I ship.
 
-[LinkedIn](https://www.linkedin.com/in/jonathan-costin)
+[Website](https://jonathancostin.com) · [LinkedIn](https://www.linkedin.com/in/jonathan-costin)
